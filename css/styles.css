@@ -1,0 +1,21 @@
+.card{
+    width: 100%;
+    max-width: 35rem;
+
+    margin: auto;
+}
+
+#enviar{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    background-color: black;
+}
+
+.container-fluid{
+    padding: 0%;
+}
